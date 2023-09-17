@@ -1,0 +1,27 @@
+.wrapper{
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+#header,#calc{
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#header {
+  font-size: 24px;
+  padding: 1rem;
+}
+
+button{
+  font-size: 18px;
+  width: 18%;
+  height: 3.5rem;
+}
+
+
+input{
+  width: 55%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+}
