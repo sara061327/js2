@@ -1,4 +1,3 @@
-
 let result = "";
 let is_calc = false;
 
